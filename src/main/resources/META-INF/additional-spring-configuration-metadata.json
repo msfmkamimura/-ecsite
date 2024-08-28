@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "mybatis.configuration.mapUnderscreToCamelCase",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis.configuration.mapUnderscreToCamelCase'"
+  },
+  {
+    "name": "spring.fmx.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.fmx.enabled'"
+  },
+  {
+    "name": "loggin.level.org.springframework",
+    "type": "java.lang.String",
+    "description": "A description for 'loggin.level.org.springframework'"
+  },
+  {
+    "name": "loggin.level.jp.co.internous.ecsite.model",
+    "type": "java.lang.String",
+    "description": "A description for 'loggin.level.jp.co.internous.ecsite.model'"
+  },
+  {
+    "name": "loggin.level.jp.co.internous.ecsite.mapper",
+    "type": "java.lang.String",
+    "description": "A description for 'loggin.level.jp.co.internous.ecsite.mapper'"
+  }
+]}
